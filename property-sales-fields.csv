@@ -1,0 +1,6 @@
+"DATAFORMAT","DATASETID","DATATYPEID","DESCRIPTION","DISTRIBUTIONID","LABEL","NAME","VOCABULARYID"
+"","31","109","Code for person entering sales data","0","","HIST-LAST-OPERATOR","0"
+"","31","110","Parcel number along with City Block provide a unique key for identifying city properties.","0","PARCEL NUMBER","HIST-PARCEL-NUMBER","0"
+"","31","110","Number assigned by Recorder of Deeds when sales data was enered in their official register.  ","0","","HIST-RECORDER-DAILY","0"
+"","31","110","","0","","HIST-SALE-NUMBER","0"
+"","31","110","","0","","HIST-SALE-PRICE","0"
