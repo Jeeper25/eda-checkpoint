@@ -1,0 +1,6 @@
+CancelType,Descr
+"A","Abandoned"
+"D","Denied"
+"R","Revoked"
+"W","Warned"
+"C","Cancelled"
